@@ -20,7 +20,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <DefaultSeo
-        title="Animebump - curated by Nick"
+        title="Animebump - curated by Nick B."
         description="Watch anime shows, tv, movies for free without ads on your mobile, tablet, or pc"
         additionalMetaTags={[
           {
